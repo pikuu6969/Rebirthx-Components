@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "components": {
+    "yt-dlp": {
+      "version": "2026.08.19",
+      "url": "https://github.com/pikuu6969/Rebirthx-Components/releases/download/downloader-1.0.0/yt-dlp.exe"
+    },
+    "deno": {
+      "version": "2.9.5",
+      "url": "https://github.com/pikuu6969/Rebirthx-Components/releases/download/downloader-1.0.0/deno.exe"
+    },
+    "ffmpeg": {
+      "version": "8.0",
+      "url": "https://github.com/pikuu6969/Rebirthx-Components/releases/download/downloader-1.0.0/ffmpeg.exe"
+    }
+  }
+}
